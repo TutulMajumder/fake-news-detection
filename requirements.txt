@@ -1,0 +1,6 @@
+# Requirements for Fake News Detection and Similarity
+pandas
+matplotlib
+scikit-learn
+nltk
+numpy
